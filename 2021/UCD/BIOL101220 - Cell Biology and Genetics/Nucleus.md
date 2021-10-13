@@ -3,11 +3,11 @@ tags: BIOL101220 - Bio/Genetics
 ---
 # Lect 2, Nucleus
 
-> Once again, this document isn't the full notes from the lecutre - Just personal notes. I plan on just paying attention to the lecture and not writing notes till after
+> Once again, this document isn't the full notes from the lecture - Just personal notes. I plan on just paying attention to the lecture and not writing notes till after
 
 > The teacher provides her full slideshows on brightspace (our online learning platform thing) so i don't need to take notes in class
 
-> Nucleus is yosra's favorite organelle
+> Nucleus is yosra's favorite organelle (confirmed)
 
 ## Personal 
 
