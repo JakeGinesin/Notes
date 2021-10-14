@@ -14,3 +14,4 @@
 - Data Science with Python (COMP30760)
 - Machine Learning with Python (COMP47750)
 - Discrete Mathematics for Computer Science (COMP20110)
+- Computer Engineering (EEEN20010)
