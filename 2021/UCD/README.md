@@ -12,6 +12,6 @@
 - Data Mining (COMP40370)
 - Object-Oriented Programming (COMP30070)
 - Data Science with Python (COMP30760)
+- Computer Engineering (EEEN20010)
 - Machine Learning with Python (COMP47750)
 - Discrete Mathematics for Computer Science (COMP20110)
-- Computer Engineering (EEEN20010)
