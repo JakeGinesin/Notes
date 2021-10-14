@@ -24,7 +24,7 @@ tags: BIOL101220 - Bio/Genetics
 
 > Here's a picture of the mitochondria!
 
-![](https://i.imgur.com/6rj3K2Z.png)
+![](https://i.imgur.com/6rj3K2Z.png =200x)
 
 - Glycolysis is splitting sugars over many steps with 10 enzymes, and occurs in the cytoplasm
 - Lmaooo wtf is the krebs cycle
