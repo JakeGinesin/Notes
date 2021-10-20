@@ -21,5 +21,6 @@
 ### Mathematical Equation Rendering
 
 Turns out Github does not support the rendering of Mathematical notation :<
+[text to latex](https://www.codecogs.com/latex/eqneditor.php)
 
 There are workarounds, though. You can change LaTeX into Github MD formatting using [this tool](https://jsfiddle.net/8ndx694g/)
