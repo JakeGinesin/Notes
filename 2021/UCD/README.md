@@ -1,6 +1,6 @@
 ## UCD.md
 
-### Classes I've taken/attended at UCD:
+### Classes I've taken/attended at UCD (University of College Dublin):
 
 > Keep in mind I didn't make digital notes for all these classes. Notes for Geology, College Writing, Discrete Maths, and Multivariable are physical. Maybe I'll type them up eventually. 
 
