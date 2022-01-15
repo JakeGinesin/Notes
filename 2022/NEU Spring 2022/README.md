@@ -9,3 +9,6 @@ I'm taking 8 courses this semester:
 - CS3950 - Introduction to Computer Science Research
 
 ![image](https://user-images.githubusercontent.com/39607713/149609878-3a1e0a35-8f00-438e-a2b6-add36cefe24a.png)
+
+# General Resources
+Khoury Admin [Site](https://admin.khoury.northeastern.edu/teaching/officehourslogin/)
