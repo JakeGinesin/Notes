@@ -12,3 +12,4 @@ I'm taking 8 courses this semester:
 
 # General Resources
 Khoury Admin [Site](https://admin.khoury.northeastern.edu/teaching/officehourslogin/)
+NEU [Links](https://neulinks.vercel.app/)
