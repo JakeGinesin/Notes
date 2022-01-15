@@ -8,6 +8,8 @@ I'm taking 8 courses this semester:
   - CS2501 - Lab for CS2500  
 - CS3950 - Introduction to Computer Science Research
 
+> Although I'll hopefully be swapping CS1800 and CS1802 with another, higher level course...
+
 ![image](https://user-images.githubusercontent.com/39607713/149609878-3a1e0a35-8f00-438e-a2b6-add36cefe24a.png)
 
 # General Resources
