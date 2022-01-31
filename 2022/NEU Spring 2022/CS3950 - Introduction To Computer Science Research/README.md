@@ -1,3 +1,3 @@
 # CS3950
 
-Course [website](https://ovitek.github.io/CS3950/S22/schedule.html)
+Olga Vitek's CS3950 [website](https://ovitek.github.io/CS3950/S22/schedule.html)
